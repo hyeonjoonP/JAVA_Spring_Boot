@@ -6,5 +6,6 @@
 ### IntelliJ 무료 Community Edition 설치
 ### (설치 경로 : https://www.jetbrains.com/ko-kr/idea/ )
 
+\n
 ## 프로젝트 생성하기
 ### [start.spring.io](https://start.spring.io/) 에 접속
