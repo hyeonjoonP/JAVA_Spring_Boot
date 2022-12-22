@@ -9,7 +9,7 @@
 ##
 ## 프로젝트 생성하기
 ### [start.spring.io](https://start.spring.io/) 에 접속
-### ![image](https://user-images.githubusercontent.com/121095166/209137026-f9c49cd1-d2c0-4b69-94f8-db703329884e.png) 설정 후 GENERATE 후 다운완료 되면 프로젝트 파일 생성
+### ![image](https://user-images.githubusercontent.com/121095166/209137026-f9c49cd1-d2c0-4b69-94f8-db703329884e.png) 설정 후 GENERATE 후 다운완료 되면 프로젝트 파일 실행
 
 ##
 ## 
