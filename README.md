@@ -9,3 +9,5 @@
 ##
 ## 프로젝트 생성하기
 ### [start.spring.io](https://start.spring.io/) 에 접속
+### ![image](https://user-images.githubusercontent.com/121095166/209136724-f321fb0f-6193-4ccf-a733-21f8d37741c8.png)
+
