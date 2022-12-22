@@ -4,4 +4,4 @@
 ### (설치 경로 : https://www.oracle.com/java/technologies/downloads/ )
 
 ### IntelliJ 무료 Community Edition 설치
-### (https://www.jetbrains.com/ko-kr/idea/ )
+### (설치 경로 : https://www.jetbrains.com/ko-kr/idea/ )
